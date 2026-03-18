@@ -1,7 +1,7 @@
 # Hi there 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&text=Apprenti%20Ingénieur%20|%20Supply%20Chain%20%26%20ERP%20|%20Data%20%26%20IA&fontSize=20&fontColor=000000&animation=fadeIn" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=2000&color=000000&center=true&vCenter=true&width=700&lines=Apprenti+Ingénieur+%7C+Supply+Chain+%26+ERP+%7C+Data+%26+IA" />
 </p>
 
 ---
