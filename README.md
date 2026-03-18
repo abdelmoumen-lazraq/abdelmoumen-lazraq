@@ -1,7 +1,14 @@
+# Hi there 👋
+
+![Typing SVG](https://readme-typing-svg.demolab.com?lines=Apprenti+Ingénieur;Supply+Chain+%26+ERP;Data+Analytics+%26+IA;Industrie+4.0&center=true&width=500&height=50)
+
+---
 
 ## Abdelmoumen Lazraq
 
 Apprenti ingénieur en génie industriel, orienté supply chain, systèmes numériques et data analytics, actuellement en formation à ESIEE Paris.
+
+![Profile Views](https://komarev.com/ghpvc/?username=abdelmoumen-lazraq&color=blue)
 
 ---
 
@@ -64,6 +71,12 @@ Je développe des projets autour de :
 ## 💻 Outils
 
 ![My Skills](https://skillicons.dev/icons?i=python,c,cpp,matlab,mysql)
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=abdelmoumen-lazraq&show_icons=true&theme=default)
 
 ---
 
