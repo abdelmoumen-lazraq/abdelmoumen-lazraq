@@ -1,8 +1,8 @@
 # Hi there 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=2000&color=000000&center=true&vCenter=true&width=700&lines=Apprenti+Ingénieur+%7C+Supply+Chain+%26+ERP+%7C+Data+%26+IA" />
-</p>
+<h2 align="center">
+Apprenti Ingénieur • Supply Chain & ERP • Data & IA • Industrie 4.0
+</h2>
 
 ---
 
