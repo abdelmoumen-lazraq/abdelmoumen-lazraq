@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**abdelmoumen-lazraq/abdelmoumen-lazraq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Abdelmoumen Lazraq
 
-Here are some ideas to get you started:
+Apprenti ingénieur en génie industriel & systèmes numériques à ESIEE Paris
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 À propos
+
+Je m’intéresse à l’optimisation des systèmes industriels, à la supply chain et à l’intégration de solutions d’intelligence artificielle.
+
+---
+
+## 💻 Compétences
+
+- Python / C / C++
+- SQL / Data Analysis
+- Machine Learning (bases)
+- ERP & Supply Chain
+
+---
+
+## 🛠️ Outils
+
+- Git / GitHub
+- VS Code
+- Excel
+- Jupyter
+
+---
+
+## 📫 Contact
+
+- Email : tonemail@gmail.com
