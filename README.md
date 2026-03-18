@@ -1,6 +1,8 @@
 # Hi there 👋
 
-![Typing SVG](https://readme-typing-svg.demolab.com?lines=Apprenti+Ingénieur;Supply+Chain+%26+ERP;Data+Analytics+%26+IA;Industrie+4.0&center=true&width=500&height=50)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&text=Apprenti%20Ingénieur%20|%20Supply%20Chain%20%26%20ERP%20|%20Data%20%26%20IA&fontSize=20&fontColor=000000&animation=fadeIn" />
+</p>
 
 ---
 
@@ -8,20 +10,22 @@
 
 Apprenti ingénieur en génie industriel, orienté supply chain, systèmes numériques et data analytics, actuellement en formation à ESIEE Paris.
 
-![Profile Views](https://komarev.com/ghpvc/?username=abdelmoumen-lazraq&color=blue)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abdelmoumen-lazraq&color=blue" />
+</p>
 
 ---
 
 ## 🎯 À propos
 
-Je m’intéresse à l’optimisation des systèmes industriels et à la transformation digitale des opérations (industrie 4.0).  
+Je m’intéresse à l’optimisation des systèmes industriels et à la transformation digitale des opérations (industrie 4.0).
 
 Mon objectif est de concevoir des solutions permettant de structurer les flux, améliorer la prise de décision et intégrer des outils comme les ERP et l’analyse de données dans des environnements industriels.
 
 Je développe des projets autour de :
-- l’optimisation des flux supply chain
-- la data analyse et les indicateurs de performance
-- la digitalisation des processus industriels
+- l’optimisation des flux supply chain  
+- la data analyse et les indicateurs de performance  
+- la digitalisation des processus industriels  
 
 ---
 
@@ -44,7 +48,7 @@ Je développe des projets autour de :
 - Analyse de marché et benchmarking  
 - Rédaction du cahier des charges fonctionnel  
 - Planification (WBS, Gantt, RACI)  
-- Analyse des risques et business plan  
+- Analyse des risques et élaboration d’un business plan  
 - Création de dashboards (Excel / Power BI)  
 - Conception d’un prototype  
 
@@ -70,13 +74,17 @@ Je développe des projets autour de :
 
 ## 💻 Outils
 
-![My Skills](https://skillicons.dev/icons?i=python,c,cpp,matlab,mysql)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,matlab,mysql" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=abdelmoumen-lazraq&show_icons=true&theme=default)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdelmoumen-lazraq&show_icons=true&theme=default" />
+</p>
 
 ---
 
@@ -92,7 +100,7 @@ Je développe des projets autour de :
 
 - Violoniste (orchestre – Conservatoire)  
 - Sport (football, course à pied)  
-- Projets techniques et innovation industrielle  
+- Innovation et systèmes industriels  
 
 ---
 
