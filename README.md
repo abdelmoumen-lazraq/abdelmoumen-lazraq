@@ -1,7 +1,10 @@
 # Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00BFFF&height=220&section=header&text=Abdelmoumen%20Lazraq&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00BFFF&height=200&section=header&text=Apprenti Ingénieur • Supply Chain & ERP • Data & IA • Industrie 4.0&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Apprenti+Ingénieur;Supply+Chain+%26+ERP;Data+%26+IA;Industrie+4.0&center=true&width=500&height=50">
 </p>
 
 <p align="center">
