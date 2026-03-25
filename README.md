@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Supply Chain+ERP+Data Analytics+Industrie 4.0&center=true&width=600&height=80&size=40&color=FF0000&vCenter=true&pause=999999&loop=false">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Supply+Chain;ERP;Data+Analytics;Industrie+4.0&center=true&width=600&height=80&size=40&color=FF0000&vCenter=true&pause=999999&loop=false">
 </p>
 ---
 
