@@ -1,5 +1,9 @@
 # Hi there 👋
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Supply+Chain+%26+ERP;Data+Analytics+%26+IA;Industrie+4.0;Optimisation+des+flux&center=true&width=500&height=50">
+</p>
+
 <h2 align="center">
 Apprenti Ingénieur • Supply Chain & ERP • Data & IA • Industrie 4.0
 </h2>
