@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Apprenti+Ingénieur+en&center=true&width=600&height=80&size=40&color=FF0000&vCenter=true&pause=999999&loop=false">
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Supply+Chain,+Data+Analyti&center=true&width=600&height=80&size=40&color=FF0000&vCenter=true&pause=999999&loop=false">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Supply+Chain+Data+Analyti&center=true&width=600&height=80&size=40&color=FF0000&vCenter=true&pause=999999&loop=false">
 </p>
 
 ---
